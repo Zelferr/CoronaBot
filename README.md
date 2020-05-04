@@ -14,5 +14,5 @@ https://www.nytimes.com/article/prepare-for-coronavirus.html
 
 ![image](https://user-images.githubusercontent.com/59648881/80369401-7f423380-888e-11ea-9371-e1f237820e40.png)
 
-Whole Bot was created in collaboration with:
+Whole CoronaBot was created in collaboration with:
 https://github.com/RoRaka29
